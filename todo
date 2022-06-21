@@ -1,0 +1,40 @@
+// TODO
+
+definir a variavel target -> EVAL
+qual é a pergunta de neógico? Qual é o objetivo da rede?
+o relacionamento é supervisionado? não supervisionado?
+
+definir bem o IO (variavel entrada, e variavel saida)
+
+definir a metrica de avaliacao
+
+100k
+200k
+300k
+
+tabela final
+
+o erro foi o mesmo pros tres casos?
+Ou teve uma melhora com o aumento do treinamento
+
+amostragem aleatoria simples, 
+
+
+ponto de exploracao:
+- fazer o grafico da distribuicao estatisca 
+- fazer a crossvalidation entre treino, validacao e teste e observar os resultados da redes
+- crossvalidation com 5 folds (quebrar em 5 subconjuntos)
+
+
+Correções:
+- alterar o path dos arquivos para ficar mais facil a troca entre notebook local ou colab
+
+partes legais do codigo para apresentacao
+
+
+apresentar:
+- arquitetura da rede
+- como a solucao converteu FEN pro dado de entrada
+- "meu modelo [e composicao de "
+- Criterio de avaliação MSE
+- comecar por um baseline "benchmark" (qqer coisa depois tem que superar esse cara)
