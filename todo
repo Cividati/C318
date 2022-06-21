@@ -38,3 +38,35 @@ apresentar:
 - "meu modelo [e composicao de "
 - Criterio de avaliação MSE
 - comecar por um baseline "benchmark" (qqer coisa depois tem que superar esse cara)
+
+
+--------------------------------------------
+Pessoal, na semana que vem (25/06) teremos a apresentação dos projetos. 
+Se tiverem dúvidas, me enviem durante a semana que respondo por aqui. 
+ 
+Algumas dicas que comentei com alguns alunos:
+i)     contextualizem o projeto, focando no problema e nas perguntas de negócio.
+        o que é o nosso projeto?
+            é uma rede neural capaz da avaliar posições de xadrez baseadas nas avaliações do Stockfish 11 at depth 22
+        qual é o problema?
+            Avaliar posições no tabuleiro de xadrez
+        nossa solução?
+            otimizar a rede neural com melhores parametros (trainset, testset, batch_size, epochs, device, learning_rate) 
+
+ii)    enquadrem o problema como um problema de ciência de dados, procurando sempre deixar claro quais são os objetivos.
+        objetivo:
+            Melhorar os modelos AdamW e SGD com novos parametros e comparar os resultados
+
+iii)   explorem a solução (seja ela desenvolvida por vocês ou alguma referência como o Kaggle).
+        Solução: Notebook pronto do Kaggle com o título de "Chess Position Evaluator"
+          
+iv)   mostrem os dados e os pontos técnicos do trabalho que vocês julgarem mais valiosos para o projeto. 
+        Dados: 3 CSV's, 
+            -   chessData.csv (dados de treinamento) -  Stockfish 11 at depth 22 
+            -   tactic_evals (dados de teste) - Stockfish 12 with NNUE disabled and at depth 20.
+            -   random_evals.csv (não utilizado) - Stockfish 12 with NNUE disabled and at depth 20.
+   
+v)    comuniquem de forma clara os resultados, insights, análises, performance, em linha com os objetivos e o problema de negócio.
+vi)   as apresentações devem ser de 15min
+vii)  entreguem os arquivos de projeto com os nomes/tema para que possamos compor a NP2. 
+viii) qualquer dúvida de desenvolvimento, machine learning, análise, bibliotecas, apresentação, é só me procurar.
