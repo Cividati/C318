@@ -6,7 +6,7 @@ o relacionamento é supervisionado? não supervisionado?
 
 definir bem o IO (variavel entrada, e variavel saida)
 
-definir a metrica de avaliacao
+definir a metrica de avaliacao -> MSE
 
 100k
 200k
@@ -36,7 +36,7 @@ apresentar:
 - arquitetura da rede
 - como a solucao converteu FEN pro dado de entrada
 - "meu modelo [e composicao de "
-- Criterio de avaliação MSE
+- Criterio de avaliação -> MSE
 - comecar por um baseline "benchmark" (qqer coisa depois tem que superar esse cara)
 
 
@@ -70,3 +70,14 @@ v)    comuniquem de forma clara os resultados, insights, análises, performance,
 vi)   as apresentações devem ser de 15min
 vii)  entreguem os arquivos de projeto com os nomes/tema para que possamos compor a NP2. 
 viii) qualquer dúvida de desenvolvimento, machine learning, análise, bibliotecas, apresentação, é só me procurar.
+
+---
+3 alvos candidatos de otimizacao dos nossos codigos
+- MAX_DATA: quantidade de dados
+    100k - 200k - 300k
+  
+- BATCH_SIZE: tamanho da janela de treinamento
+    10 - 20 - 30
+
+- EPOCHS: quantidade de epocas de treinamento
+    10 - 20 - 30
