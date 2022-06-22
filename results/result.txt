@@ -1,0 +1,592 @@
+total data: 100000
+--------------------------------------------------
+AdamW
+AdamW MSE: 0.02320
+time elapsed on AdamW: 0:03:42.418567
+--------------------------------------------------
+SGD 0.01
+SGD 0.010 MSE: nan
+time elapsed on SGD 0.01: 0:02:43.528381
+--------------------------------------------------
+SGD 0.001
+SGD 0.001 MSE: nan
+time elapsed on SGD - 0.001: 0:02:43.853965
+--------------------------------------------------
+MAX DATA: 100000 - BATCH_SIZE: 10 EPOCHS: 10
+AdamW MSE: 0.02320
+SGD 0.010 MSE: nan
+SGD 0.001 MSE: nan
+--------------------------------------------------
+Preparing Training Data...
+Preparing Test Data...
+total data: 100000
+--------------------------------------------------
+AdamW
+AdamW MSE: 0.02316
+time elapsed on AdamW: 0:07:10.516588
+--------------------------------------------------
+SGD 0.01
+SGD 0.010 MSE: 0.02058
+time elapsed on SGD 0.01: 0:05:19.755107
+--------------------------------------------------
+SGD 0.001
+SGD 0.001 MSE: 0.02054
+time elapsed on SGD - 0.001: 0:05:15.877901
+--------------------------------------------------
+MAX DATA: 100000 - BATCH_SIZE: 10 EPOCHS: 20
+AdamW MSE: 0.02316
+SGD 0.010 MSE: 0.02058
+SGD 0.001 MSE: 0.02054
+--------------------------------------------------
+Preparing Training Data...
+Preparing Test Data...
+total data: 100000
+--------------------------------------------------
+AdamW
+AdamW MSE: 0.02053
+time elapsed on AdamW: 0:10:24.611203
+--------------------------------------------------
+SGD 0.01
+SGD 0.010 MSE: nan
+time elapsed on SGD 0.01: 0:07:51.530193
+--------------------------------------------------
+SGD 0.001
+SGD 0.001 MSE: nan
+time elapsed on SGD - 0.001: 0:07:50.890312
+--------------------------------------------------
+MAX DATA: 100000 - BATCH_SIZE: 10 EPOCHS: 30
+AdamW MSE: 0.02053
+SGD 0.010 MSE: nan
+SGD 0.001 MSE: nan
+--------------------------------------------------
+Preparing Training Data...
+Preparing Test Data...
+total data: 100000
+--------------------------------------------------
+AdamW
+AdamW MSE: 0.01276
+time elapsed on AdamW: 0:01:49.712314
+--------------------------------------------------
+SGD 0.01
+SGD 0.010 MSE: nan
+time elapsed on SGD 0.01: 0:01:22.787221
+--------------------------------------------------
+SGD 0.001
+SGD 0.001 MSE: 0.01234
+time elapsed on SGD - 0.001: 0:01:22.675510
+--------------------------------------------------
+MAX DATA: 100000 - BATCH_SIZE: 20 EPOCHS: 10
+AdamW MSE: 0.01276
+SGD 0.010 MSE: nan
+SGD 0.001 MSE: 0.01234
+--------------------------------------------------
+Preparing Training Data...
+Preparing Test Data...
+total data: 100000
+--------------------------------------------------
+AdamW
+AdamW MSE: 0.01323
+time elapsed on AdamW: 0:03:36.960812
+--------------------------------------------------
+SGD 0.01
+SGD 0.010 MSE: 0.01213
+time elapsed on SGD 0.01: 0:02:43.156812
+--------------------------------------------------
+SGD 0.001
+SGD 0.001 MSE: 0.01238
+time elapsed on SGD - 0.001: 0:02:42.354768
+--------------------------------------------------
+MAX DATA: 100000 - BATCH_SIZE: 20 EPOCHS: 20
+AdamW MSE: 0.01323
+SGD 0.010 MSE: 0.01213
+SGD 0.001 MSE: 0.01238
+--------------------------------------------------
+Preparing Training Data...
+Preparing Test Data...
+total data: 100000
+--------------------------------------------------
+AdamW
+AdamW MSE: 0.01248
+time elapsed on AdamW: 0:05:24.161639
+--------------------------------------------------
+SGD 0.01
+SGD 0.010 MSE: nan
+time elapsed on SGD 0.01: 0:04:01.596794
+--------------------------------------------------
+SGD 0.001
+SGD 0.001 MSE: 0.01305
+time elapsed on SGD - 0.001: 0:04:01.670700
+--------------------------------------------------
+MAX DATA: 100000 - BATCH_SIZE: 20 EPOCHS: 30
+AdamW MSE: 0.01248
+SGD 0.010 MSE: nan
+SGD 0.001 MSE: 0.01305
+--------------------------------------------------
+Preparing Training Data...
+Preparing Test Data...
+total data: 100000
+--------------------------------------------------
+AdamW
+AdamW MSE: 0.02178
+time elapsed on AdamW: 0:01:16.953134
+--------------------------------------------------
+SGD 0.01
+SGD 0.010 MSE: 0.02063
+time elapsed on SGD 0.01: 0:00:58.765294
+--------------------------------------------------
+SGD 0.001
+SGD 0.001 MSE: 0.02187
+time elapsed on SGD - 0.001: 0:00:58.596954
+--------------------------------------------------
+MAX DATA: 100000 - BATCH_SIZE: 30 EPOCHS: 10
+AdamW MSE: 0.02178
+SGD 0.010 MSE: 0.02063
+SGD 0.001 MSE: 0.02187
+--------------------------------------------------
+Preparing Training Data...
+Preparing Test Data...
+total data: 100000
+--------------------------------------------------
+AdamW
+AdamW MSE: 0.02148
+time elapsed on AdamW: 0:02:31.976172
+--------------------------------------------------
+SGD 0.01
+SGD 0.010 MSE: 0.02058
+time elapsed on SGD 0.01: 0:01:55.270672
+--------------------------------------------------
+SGD 0.001
+SGD 0.001 MSE: 0.02157
+time elapsed on SGD - 0.001: 0:01:54.989017
+--------------------------------------------------
+MAX DATA: 100000 - BATCH_SIZE: 30 EPOCHS: 20
+AdamW MSE: 0.02148
+SGD 0.010 MSE: 0.02058
+SGD 0.001 MSE: 0.02157
+--------------------------------------------------
+Preparing Training Data...
+Preparing Test Data...
+total data: 100000
+--------------------------------------------------
+AdamW
+AdamW MSE: 0.02184
+time elapsed on AdamW: 0:03:47.149900
+--------------------------------------------------
+SGD 0.01
+SGD 0.010 MSE: 0.02037
+time elapsed on SGD 0.01: 0:02:52.001309
+--------------------------------------------------
+SGD 0.001
+SGD 0.001 MSE: 0.02193
+time elapsed on SGD - 0.001: 0:02:51.833433
+--------------------------------------------------
+MAX DATA: 100000 - BATCH_SIZE: 30 EPOCHS: 30
+AdamW MSE: 0.02184
+SGD 0.010 MSE: 0.02037
+SGD 0.001 MSE: 0.02193
+--------------------------------------------------
+Preparing Training Data...
+Preparing Test Data...
+total data: 200000
+--------------------------------------------------
+AdamW
+AdamW MSE: 0.02961
+time elapsed on AdamW: 0:07:03.045441
+--------------------------------------------------
+SGD 0.01
+SGD 0.010 MSE: 0.03013
+time elapsed on SGD 0.01: 0:05:20.438890
+--------------------------------------------------
+SGD 0.001
+SGD 0.001 MSE: nan
+time elapsed on SGD - 0.001: 0:05:19.752665
+--------------------------------------------------
+MAX DATA: 200000 - BATCH_SIZE: 10 EPOCHS: 10
+AdamW MSE: 0.02961
+SGD 0.010 MSE: 0.03013
+SGD 0.001 MSE: nan
+--------------------------------------------------
+Preparing Training Data...
+Preparing Test Data...
+total data: 200000
+--------------------------------------------------
+AdamW
+AdamW MSE: 0.03018
+time elapsed on AdamW: 0:13:56.774133
+--------------------------------------------------
+SGD 0.01
+SGD 0.010 MSE: nan
+time elapsed on SGD 0.01: 0:10:29.676167
+--------------------------------------------------
+SGD 0.001
+SGD 0.001 MSE: 0.03015
+time elapsed on SGD - 0.001: 0:10:28.183255
+--------------------------------------------------
+MAX DATA: 200000 - BATCH_SIZE: 10 EPOCHS: 20
+AdamW MSE: 0.03018
+SGD 0.010 MSE: nan
+SGD 0.001 MSE: 0.03015
+--------------------------------------------------
+Preparing Training Data...
+Preparing Test Data...
+total data: 200000
+--------------------------------------------------
+AdamW
+AdamW MSE: 0.03020
+time elapsed on AdamW: 0:20:48.234420
+--------------------------------------------------
+SGD 0.01
+SGD 0.010 MSE: 0.03015
+time elapsed on SGD 0.01: 0:15:37.577695
+--------------------------------------------------
+SGD 0.001
+SGD 0.001 MSE: 0.03011
+time elapsed on SGD - 0.001: 0:15:33.021344
+--------------------------------------------------
+MAX DATA: 200000 - BATCH_SIZE: 10 EPOCHS: 30
+AdamW MSE: 0.03020
+SGD 0.010 MSE: 0.03015
+SGD 0.001 MSE: 0.03011
+--------------------------------------------------
+Preparing Training Data...
+Preparing Test Data...
+total data: 200000
+--------------------------------------------------
+AdamW
+AdamW MSE: 0.01998
+time elapsed on AdamW: 0:03:38.723988
+--------------------------------------------------
+SGD 0.01
+SGD 0.010 MSE: nan
+time elapsed on SGD 0.01: 0:02:44.395176
+--------------------------------------------------
+SGD 0.001
+SGD 0.001 MSE: 0.01990
+time elapsed on SGD - 0.001: 0:02:44.313761
+--------------------------------------------------
+MAX DATA: 200000 - BATCH_SIZE: 20 EPOCHS: 10
+AdamW MSE: 0.01998
+SGD 0.010 MSE: nan
+SGD 0.001 MSE: 0.01990
+--------------------------------------------------
+Preparing Training Data...
+Preparing Test Data...
+total data: 200000
+--------------------------------------------------
+AdamW
+AdamW MSE: 0.02017
+time elapsed on AdamW: 0:07:13.109095
+--------------------------------------------------
+SGD 0.01
+SGD 0.010 MSE: nan
+time elapsed on SGD 0.01: 0:05:23.737320
+--------------------------------------------------
+SGD 0.001
+SGD 0.001 MSE: 0.01998
+time elapsed on SGD - 0.001: 0:05:23.012484
+--------------------------------------------------
+MAX DATA: 200000 - BATCH_SIZE: 20 EPOCHS: 20
+AdamW MSE: 0.02017
+SGD 0.010 MSE: nan
+SGD 0.001 MSE: 0.01998
+--------------------------------------------------
+Preparing Training Data...
+Preparing Test Data...
+total data: 200000
+--------------------------------------------------
+AdamW
+AdamW MSE: 0.02009
+time elapsed on AdamW: 0:10:48.489028
+--------------------------------------------------
+SGD 0.01
+SGD 0.010 MSE: nan
+time elapsed on SGD 0.01: 0:08:01.788081
+--------------------------------------------------
+SGD 0.001
+SGD 0.001 MSE: 0.02038
+time elapsed on SGD - 0.001: 0:08:01.461287
+--------------------------------------------------
+MAX DATA: 200000 - BATCH_SIZE: 20 EPOCHS: 30
+AdamW MSE: 0.02009
+SGD 0.010 MSE: nan
+SGD 0.001 MSE: 0.02038
+--------------------------------------------------
+Preparing Training Data...
+Preparing Test Data...
+total data: 200000
+--------------------------------------------------
+AdamW
+AdamW MSE: 0.02044
+time elapsed on AdamW: 0:02:34.258961
+--------------------------------------------------
+SGD 0.01
+SGD 0.010 MSE: 0.02015
+time elapsed on SGD 0.01: 0:01:57.825578
+--------------------------------------------------
+SGD 0.001
+SGD 0.001 MSE: 0.01984
+time elapsed on SGD - 0.001: 0:01:57.358941
+--------------------------------------------------
+MAX DATA: 200000 - BATCH_SIZE: 30 EPOCHS: 10
+AdamW MSE: 0.02044
+SGD 0.010 MSE: 0.02015
+SGD 0.001 MSE: 0.01984
+--------------------------------------------------
+Preparing Training Data...
+Preparing Test Data...
+total data: 200000
+--------------------------------------------------
+AdamW
+AdamW MSE: 0.02016
+time elapsed on AdamW: 0:05:04.702116
+--------------------------------------------------
+SGD 0.01
+SGD 0.010 MSE: nan
+time elapsed on SGD 0.01: 0:03:50.986815
+--------------------------------------------------
+SGD 0.001
+SGD 0.001 MSE: 0.02080
+time elapsed on SGD - 0.001: 0:03:50.350479
+--------------------------------------------------
+MAX DATA: 200000 - BATCH_SIZE: 30 EPOCHS: 20
+AdamW MSE: 0.02016
+SGD 0.010 MSE: nan
+SGD 0.001 MSE: 0.02080
+--------------------------------------------------
+Preparing Training Data...
+Preparing Test Data...
+total data: 200000
+--------------------------------------------------
+AdamW
+AdamW MSE: 0.01998
+time elapsed on AdamW: 0:07:35.335735
+--------------------------------------------------
+SGD 0.01
+SGD 0.010 MSE: 0.02015
+time elapsed on SGD 0.01: 0:05:44.353331
+--------------------------------------------------
+SGD 0.001
+SGD 0.001 MSE: 0.02010
+time elapsed on SGD - 0.001: 0:05:42.870850
+--------------------------------------------------
+MAX DATA: 200000 - BATCH_SIZE: 30 EPOCHS: 30
+AdamW MSE: 0.01998
+SGD 0.010 MSE: 0.02015
+SGD 0.001 MSE: 0.02010
+--------------------------------------------------
+Preparing Training Data...
+Preparing Test Data...
+total data: 300000
+--------------------------------------------------
+AdamW
+AdamW MSE: 0.01359
+time elapsed on AdamW: 0:10:33.622051
+--------------------------------------------------
+SGD 0.01
+SGD 0.010 MSE: 0.01355
+time elapsed on SGD 0.01: 0:08:00.293001
+--------------------------------------------------
+SGD 0.001
+SGD 0.001 MSE: nan
+time elapsed on SGD - 0.001: 0:07:59.865596
+--------------------------------------------------
+MAX DATA: 300000 - BATCH_SIZE: 10 EPOCHS: 10
+AdamW MSE: 0.01359
+SGD 0.010 MSE: 0.01355
+SGD 0.001 MSE: nan
+--------------------------------------------------
+Preparing Training Data...
+Preparing Test Data...
+total data: 300000
+--------------------------------------------------
+AdamW
+AdamW MSE: 0.01317
+time elapsed on AdamW: 0:20:51.286564
+--------------------------------------------------
+SGD 0.01
+SGD 0.010 MSE: nan
+time elapsed on SGD 0.01: 0:15:46.638932
+--------------------------------------------------
+SGD 0.001
+SGD 0.001 MSE: nan
+time elapsed on SGD - 0.001: 0:15:43.307520
+--------------------------------------------------
+MAX DATA: 300000 - BATCH_SIZE: 10 EPOCHS: 20
+AdamW MSE: 0.01317
+SGD 0.010 MSE: nan
+SGD 0.001 MSE: nan
+--------------------------------------------------
+Preparing Training Data...
+Preparing Test Data...
+total data: 300000
+--------------------------------------------------
+AdamW
+AdamW MSE: 0.01378
+time elapsed on AdamW: 0:31:15.537145
+--------------------------------------------------
+SGD 0.01
+SGD 0.010 MSE: 0.01331
+time elapsed on SGD 0.01: 0:23:29.036075
+--------------------------------------------------
+SGD 0.001
+SGD 0.001 MSE: 0.01354
+time elapsed on SGD - 0.001: 0:23:24.609047
+--------------------------------------------------
+MAX DATA: 300000 - BATCH_SIZE: 10 EPOCHS: 30
+AdamW MSE: 0.01378
+SGD 0.010 MSE: 0.01331
+SGD 0.001 MSE: 0.01354
+--------------------------------------------------
+Preparing Training Data...
+Preparing Test Data...
+total data: 300000
+--------------------------------------------------
+AdamW
+AdamW MSE: 0.01002
+time elapsed on AdamW: 0:05:28.917914
+--------------------------------------------------
+SGD 0.01
+SGD 0.010 MSE: 0.01013
+time elapsed on SGD 0.01: 0:04:07.509843
+--------------------------------------------------
+SGD 0.001
+SGD 0.001 MSE: 0.00969
+time elapsed on SGD - 0.001: 0:04:06.479497
+--------------------------------------------------
+MAX DATA: 300000 - BATCH_SIZE: 20 EPOCHS: 10
+AdamW MSE: 0.01002
+SGD 0.010 MSE: 0.01013
+SGD 0.001 MSE: 0.00969
+--------------------------------------------------
+Preparing Training Data...
+Preparing Test Data...
+total data: 300000
+--------------------------------------------------
+AdamW
+AdamW MSE: 0.00964
+time elapsed on AdamW: 0:10:51.740091
+--------------------------------------------------
+SGD 0.01
+SGD 0.010 MSE: 0.01015
+time elapsed on SGD 0.01: 0:08:06.984360
+--------------------------------------------------
+SGD 0.001
+SGD 0.001 MSE: 0.00947
+time elapsed on SGD - 0.001: 0:08:06.243999
+--------------------------------------------------
+MAX DATA: 300000 - BATCH_SIZE: 20 EPOCHS: 20
+AdamW MSE: 0.00964
+SGD 0.010 MSE: 0.01015
+SGD 0.001 MSE: 0.00947
+--------------------------------------------------
+Preparing Training Data...
+Preparing Test Data...
+total data: 300000
+--------------------------------------------------
+AdamW
+AdamW MSE: 0.00964
+time elapsed on AdamW: 0:16:13.168154
+--------------------------------------------------
+SGD 0.01
+SGD 0.010 MSE: 0.01013
+time elapsed on SGD 0.01: 0:12:04.935322
+--------------------------------------------------
+SGD 0.001
+SGD 0.001 MSE: 0.00956
+time elapsed on SGD - 0.001: 0:12:04.070718
+--------------------------------------------------
+MAX DATA: 300000 - BATCH_SIZE: 20 EPOCHS: 30
+AdamW MSE: 0.00964
+SGD 0.010 MSE: 0.01013
+SGD 0.001 MSE: 0.00956
+--------------------------------------------------
+Preparing Training Data...
+Preparing Test Data...
+total data: 300000
+--------------------------------------------------
+AdamW
+AdamW MSE: 0.01091
+time elapsed on AdamW: 0:03:51.833034
+--------------------------------------------------
+SGD 0.01
+SGD 0.010 MSE: nan
+time elapsed on SGD 0.01: 0:02:57.205892
+--------------------------------------------------
+SGD 0.001
+SGD 0.001 MSE: 0.01017
+time elapsed on SGD - 0.001: 0:02:56.479199
+--------------------------------------------------
+MAX DATA: 300000 - BATCH_SIZE: 30 EPOCHS: 10
+AdamW MSE: 0.01091
+SGD 0.010 MSE: nan
+SGD 0.001 MSE: 0.01017
+--------------------------------------------------
+Preparing Training Data...
+Preparing Test Data...
+total data: 300000
+--------------------------------------------------
+AdamW
+AdamW MSE: 0.01110
+time elapsed on AdamW: 0:07:37.725721
+--------------------------------------------------
+SGD 0.01
+SGD 0.010 MSE: nan
+time elapsed on SGD 0.01: 0:05:46.306367
+--------------------------------------------------
+SGD 0.001
+SGD 0.001 MSE: 0.01015
+time elapsed on SGD - 0.001: 0:05:45.361566
+--------------------------------------------------
+MAX DATA: 300000 - BATCH_SIZE: 30 EPOCHS: 20
+AdamW MSE: 0.01110
+SGD 0.010 MSE: nan
+SGD 0.001 MSE: 0.01015
+--------------------------------------------------
+Preparing Training Data...
+Preparing Test Data...
+total data: 300000
+--------------------------------------------------
+AdamW
+AdamW MSE: 0.01032
+time elapsed on AdamW: 0:11:23.825454
+--------------------------------------------------
+SGD 0.01
+SGD 0.010 MSE: 0.01121
+time elapsed on SGD 0.01: 0:08:36.580974
+--------------------------------------------------
+SGD 0.001
+SGD 0.001 MSE: 0.01049
+time elapsed on SGD - 0.001: 0:08:39.606182
+--------------------------------------------------
+MAX DATA: 300000 - BATCH_SIZE: 30 EPOCHS: 30
+AdamW MSE: 0.01032
+SGD 0.010 MSE: 0.01121
+SGD 0.001 MSE: 0.01049
+--------------------------------------------------
+('MAX DATA: 100000 - BATCH_SIZE: 10 EPOCHS: 10', 'AdamW MSE: 0.02320', 'SGD 0.010 MSE: nan', 'SGD 0.001 MSE: nan')
+('MAX DATA: 100000 - BATCH_SIZE: 10 EPOCHS: 20', 'AdamW MSE: 0.02316', 'SGD 0.010 MSE: 0.02058', 'SGD 0.001 MSE: 0.02054')
+('MAX DATA: 100000 - BATCH_SIZE: 10 EPOCHS: 30', 'AdamW MSE: 0.02053', 'SGD 0.010 MSE: nan', 'SGD 0.001 MSE: nan')
+('MAX DATA: 100000 - BATCH_SIZE: 20 EPOCHS: 10', 'AdamW MSE: 0.01276', 'SGD 0.010 MSE: nan', 'SGD 0.001 MSE: 0.01234')
+('MAX DATA: 100000 - BATCH_SIZE: 20 EPOCHS: 20', 'AdamW MSE: 0.01323', 'SGD 0.010 MSE: 0.01213', 'SGD 0.001 MSE: 0.01238')
+('MAX DATA: 100000 - BATCH_SIZE: 20 EPOCHS: 30', 'AdamW MSE: 0.01248', 'SGD 0.010 MSE: nan', 'SGD 0.001 MSE: 0.01305')
+('MAX DATA: 100000 - BATCH_SIZE: 30 EPOCHS: 10', 'AdamW MSE: 0.02178', 'SGD 0.010 MSE: 0.02063', 'SGD 0.001 MSE: 0.02187')
+('MAX DATA: 100000 - BATCH_SIZE: 30 EPOCHS: 20', 'AdamW MSE: 0.02148', 'SGD 0.010 MSE: 0.02058', 'SGD 0.001 MSE: 0.02157')
+('MAX DATA: 100000 - BATCH_SIZE: 30 EPOCHS: 30', 'AdamW MSE: 0.02184', 'SGD 0.010 MSE: 0.02037', 'SGD 0.001 MSE: 0.02193')
+('MAX DATA: 200000 - BATCH_SIZE: 10 EPOCHS: 10', 'AdamW MSE: 0.02961', 'SGD 0.010 MSE: 0.03013', 'SGD 0.001 MSE: nan')
+('MAX DATA: 200000 - BATCH_SIZE: 10 EPOCHS: 20', 'AdamW MSE: 0.03018', 'SGD 0.010 MSE: nan', 'SGD 0.001 MSE: 0.03015')
+('MAX DATA: 200000 - BATCH_SIZE: 10 EPOCHS: 30', 'AdamW MSE: 0.03020', 'SGD 0.010 MSE: 0.03015', 'SGD 0.001 MSE: 0.03011')
+('MAX DATA: 200000 - BATCH_SIZE: 20 EPOCHS: 10', 'AdamW MSE: 0.01998', 'SGD 0.010 MSE: nan', 'SGD 0.001 MSE: 0.01990')
+('MAX DATA: 200000 - BATCH_SIZE: 20 EPOCHS: 20', 'AdamW MSE: 0.02017', 'SGD 0.010 MSE: nan', 'SGD 0.001 MSE: 0.01998')
+('MAX DATA: 200000 - BATCH_SIZE: 20 EPOCHS: 30', 'AdamW MSE: 0.02009', 'SGD 0.010 MSE: nan', 'SGD 0.001 MSE: 0.02038')
+('MAX DATA: 200000 - BATCH_SIZE: 30 EPOCHS: 10', 'AdamW MSE: 0.02044', 'SGD 0.010 MSE: 0.02015', 'SGD 0.001 MSE: 0.01984')
+('MAX DATA: 200000 - BATCH_SIZE: 30 EPOCHS: 20', 'AdamW MSE: 0.02016', 'SGD 0.010 MSE: nan', 'SGD 0.001 MSE: 0.02080')
+('MAX DATA: 200000 - BATCH_SIZE: 30 EPOCHS: 30', 'AdamW MSE: 0.01998', 'SGD 0.010 MSE: 0.02015', 'SGD 0.001 MSE: 0.02010')
+('MAX DATA: 300000 - BATCH_SIZE: 10 EPOCHS: 10', 'AdamW MSE: 0.01359', 'SGD 0.010 MSE: 0.01355', 'SGD 0.001 MSE: nan')
+('MAX DATA: 300000 - BATCH_SIZE: 10 EPOCHS: 20', 'AdamW MSE: 0.01317', 'SGD 0.010 MSE: nan', 'SGD 0.001 MSE: nan')
+('MAX DATA: 300000 - BATCH_SIZE: 10 EPOCHS: 30', 'AdamW MSE: 0.01378', 'SGD 0.010 MSE: 0.01331', 'SGD 0.001 MSE: 0.01354')
+('MAX DATA: 300000 - BATCH_SIZE: 20 EPOCHS: 10', 'AdamW MSE: 0.01002', 'SGD 0.010 MSE: 0.01013', 'SGD 0.001 MSE: 0.00969')
+('MAX DATA: 300000 - BATCH_SIZE: 20 EPOCHS: 20', 'AdamW MSE: 0.00964', 'SGD 0.010 MSE: 0.01015', 'SGD 0.001 MSE: 0.00947')
+('MAX DATA: 300000 - BATCH_SIZE: 20 EPOCHS: 30', 'AdamW MSE: 0.00964', 'SGD 0.010 MSE: 0.01013', 'SGD 0.001 MSE: 0.00956')
+('MAX DATA: 300000 - BATCH_SIZE: 30 EPOCHS: 10', 'AdamW MSE: 0.01091', 'SGD 0.010 MSE: nan', 'SGD 0.001 MSE: 0.01017')
+('MAX DATA: 300000 - BATCH_SIZE: 30 EPOCHS: 20', 'AdamW MSE: 0.01110', 'SGD 0.010 MSE: nan', 'SGD 0.001 MSE: 0.01015')
+('MAX DATA: 300000 - BATCH_SIZE: 30 EPOCHS: 30', 'AdamW MSE: 0.01032', 'SGD 0.010 MSE: 0.01121', 'SGD 0.001 MSE: 0.01049')
