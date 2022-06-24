@@ -81,3 +81,5 @@ viii) qualquer dúvida de desenvolvimento, machine learning, análise, bibliotec
 
 - EPOCHS: quantidade de epocas de treinamento
     10 - 20 - 30
+
+batch size -> quantidade de amostras por lote de dados
